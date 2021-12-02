@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nefariouslad
+- 👋 Hi, I’m Pratik Singh
 - 👀 I’m interested in web development  
 - 🌱 I’m currently learning backend with node 
 - 💞️ I’m looking to collaborate on 
